@@ -5,3 +5,7 @@ let idade = 40
 let lugar = "Grecia"
 
 console.log (nome)
+console.log (email)
+console.log (profissao)
+console.log (idade)
+console.log (lugar)
