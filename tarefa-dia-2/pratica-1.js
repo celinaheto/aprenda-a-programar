@@ -1,5 +1,7 @@
-let nome = "Celina"
+let nome = "Celina Eto"
 let email = "celinaeto81@gmail.com"
-let profissao = "nutricionista"
+let profissao = "Nutricionista"
 let idade = 40
-let lugar = "Las Vegas"
+let lugar = "Grecia"
+
+console.log (nome)
